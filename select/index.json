@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "夏影テールライト",
+  "base_artist": "UNISON SQUARE GARDEN",
+  "createdAt": "2025-12-16T02:58:09.503582Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "夏影テールライト",
+      "artist": "UNISON SQUARE GARDEN",
+      "has_synced": true,
+      "path": "select/01_夏影テールライト_UNISON_SQUARE_GARDEN.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夏影テールライト",
+      "artist": "UNISON SQUARE GARDEN",
+      "has_synced": false,
+      "path": "select/pl_01_夏影テールライト_UNISON_SQUARE_GARDEN.txt"
+    }
+  ]
+}
